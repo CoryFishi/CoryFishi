@@ -6,7 +6,9 @@
 
 - 📚 I'm currently learning React, Java and Javascript.
 - 🎯 2024 Goals
-  - Complete #30DaysOfJavaScript Challenge
+  - Complete 3rd year of my 3 1/2 year degree.
+  - Create 5 projects to add to my portfolio.
+  - Keep learning!
 
 #### Connect with me
 
@@ -19,31 +21,16 @@
 
 ### What I work with
 
-<p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
+<p>These are some of the languages, tools and frameworks that I use.</p>
 
-<h4>Languages</h4>
+
+
+<h4>Languages and Technologies</h4>
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coryfishi&theme=github_dark&layout=compact&hide=jupyter%20notebook,matlab" />
-</p>
-<p>
-  <img align="left" src="https://img.shields.io/badge/Bash-1c1c1c?&style=flat-square&logo=GNUBash" />
-  <img align="left" src="https://img.shields.io/badge/Java-1c1c1c?&style=flat-square&logo=Java" />
-  <img align="left" src="https://img.shields.io/badge/JavaScript-1c1c1c?&style=flat-square&logo=JavaScript" />
-  <img align="left" src="https://img.shields.io/badge/Python-1c1c1c?&style=flat-square&logo=Python" />
-</p>
-  
-<br/><br/>
-
-<h4>UI Libraries & Frameworks</h4>
-<p>
-  <img align="left" src="https://img.shields.io/badge/jquery-1c1c1c?&style=flat-square&logo=jquery" />
-</p>
-  
-<br/><br/>
-
-<h4>Server Side Libraries & Frameworks</h4>
-<p>
-  <img align="left" src="https://img.shields.io/badge/Flask-1c1c1c?&style=flat-square&logo=Flask" />
 </p>
 
 <br/>
