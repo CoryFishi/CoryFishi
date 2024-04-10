@@ -6,7 +6,7 @@
 
 - 📚 I'm currently learning React, Java and Javascript.
 - 🎯 2024 Goals
-  - Complete 3rd year of my 3 1/2 year degree.
+  - Graduate from ASU!
   - Create 5 projects to add to my portfolio.
   - Keep learning!
 
